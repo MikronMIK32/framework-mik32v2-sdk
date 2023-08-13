@@ -1,0 +1,6 @@
+[submodule "shared"]
+	path = shared
+	url = https://github.com/MikronMIK32/mik32v1-shared
+[submodule "hal"]
+	path = hal
+	url = https://github.com/MikronMIK32/mik32-hal

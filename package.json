@@ -1,0 +1,16 @@
+{
+  "name": "framework-mik32v1-sdk",
+  "version": "0.1.0",
+  "description": "Mikron MIK32V1 Firmware Library",
+  "keywords": [
+    "framework",
+    "sdk",
+    "risc-v",
+    "mikron"
+  ],
+  "homepage": "http://mik32.ru",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikronMIK32/framework-mik32v1-sdk.git"
+  }
+}
