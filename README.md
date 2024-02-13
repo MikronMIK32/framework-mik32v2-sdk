@@ -1,6 +1,6 @@
-# framework-mik32v1-sdk
+# framework-mik32v2-sdk
 
-Repository for the MIK32 V1 microcontroller support in the Platformio IDE.
+Repository for the MIK32V2 microcontroller support in the Platformio IDE.
 
 ## Contents of the folders:
 
