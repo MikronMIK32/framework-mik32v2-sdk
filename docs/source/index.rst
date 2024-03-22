@@ -17,6 +17,7 @@
    HAL_DMA
    HAL_SPI
    HAL_GPIO
+   HAL_SCR1_Timer
 
 
 :ref:`genindex`
