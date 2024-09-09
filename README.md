@@ -1,12 +1,9 @@
-# framework-mik32v2-sdk
+# MIK32: Набор для поддержки разработки приложений под микроконтроллер MIK32V2
 
-Repository for the MIK32V2 microcontroller support in the Platformio IDE.
+Репозиторий содержит описания регистров и библиотеки периферийных блоков на языке Си, стартовый файл, скрипты линковки и настройки генерации документации на основе Doxygen и Sphinx
 
-## Contents of the folders:
+# Содержимое директорий:
 
-* hal/ - contains libraries for programming MIK32V0 peripherals
-* openocd/share/openocd/scripts/ - scripts of the OpenOCD debugger
-  * include_eeprom.tcl - script for flashing the built-in EEPROM (pass the path of hex file to the function eeprom_write_file)
-  * interface/ftdi/ - JTAG emulator configuration scripts, based on ftdi chip
-  * target/ - scripts to set debugging target (use mik32.cfg)
-* shared/ - contains header files, startup files, linking scripts and some basic libraries related to MIK32 V2
+- docs/ - настройки генерации документации на основе Doxygen и Sphinx;
+- hal/ - библиотеки для программирования периферийных блоков MIK32V2;
+- shared/ - описания регистров на языке Си, стартовый файл и скрипты линковки для MIK32V2.
