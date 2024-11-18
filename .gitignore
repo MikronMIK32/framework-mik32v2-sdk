@@ -1,10 +1,12 @@
 shared/runtime/crt0
+doxygen
 doxygen/doxygen
 doxygen/html
 doxygen/html
 doxygen/latex
 doxygen/xml
 doxygen/DoxygenLayout.xml
+docs
 docs/build
 docs/make.bat
 docs/Makefile
