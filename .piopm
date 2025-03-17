@@ -1,1 +1,1 @@
-{"type": "tool", "name": "framework-mik32v2-sdk", "version": "0.2.0", "spec": {"owner": "mikron", "id": 121, "name": "framework-mik32v2-sdk", "requirements": null, "url": null}}
+{"type": "tool", "name": "framework-mik32v2-sdk", "version": "0.2.2", "spec": {"owner": "mikron", "id": 121, "name": "framework-mik32v2-sdk", "requirements": null, "url": null}}
